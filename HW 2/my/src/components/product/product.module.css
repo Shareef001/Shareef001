@@ -1,0 +1,18 @@
+.list {
+    width: 700px;
+    height: 600px;
+    background-color: #f5a9f5;
+    border-radius: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.list h1 {
+    color: #1d3bda;
+    font-size: 50px;
+    line-height: 60px;
+    font-family: sans-serif;
+}
